@@ -1,10 +1,6 @@
 ```markdown
 # Docbild Conversion Tool
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
-![Contributors](https://img.shields.io/badge/contributors-1-orange.svg)
-
 ## Table of Contents
 - [Project Description](#project-description)
 - [Features](#features)
